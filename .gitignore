@@ -1,0 +1,16 @@
+# Virtual environment
+.venv/
+
+# Airflow
+airflow/logs/
+airflow/airflow.db
+airflow/airflow.db-shm
+airflow/airflow.db-wal
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Mac
+.DS_Store
